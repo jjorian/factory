@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">factory</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">نام کاربری</string>
+    <string name="prompt_password">کلمه عبور</string>
+    <string name="action_sign_in">ورود</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="txt_scan">اسکن بارکد</string>
+    <string name="txt_exit">خروج </string>
+    <string name="txt_logout">ورود مجدد</string>
+    <string name="txt_main">صفحه اصلی</string>
+</resources>
